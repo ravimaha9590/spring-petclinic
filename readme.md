@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 #test-2
 
+=======
+#tes branch
+>>>>>>> 6b4a741b8af928adabe9259d6c57d2a1fc59aeed
 # Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
 Deploy this sample application to Pivotal Web Services:
 
